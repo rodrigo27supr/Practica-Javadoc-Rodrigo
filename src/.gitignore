@@ -1,0 +1,9 @@
+# Excluir la documentación Javadoc para el repositorio remoto
+/doc/
+
+# Excluir archivos de configuración del IDE y compilados
+/target/
+/bin/
+*.class
+.idea/
+.project
